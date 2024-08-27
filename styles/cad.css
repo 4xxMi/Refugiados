@@ -310,3 +310,16 @@ p#aa{
     margin: 20px;
     align-content: center;
 }
+
+.links-fonts-refs{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    padding: 10px;
+    width: 70%;
+}
+
+.links-fonts-refs>ul>li>a{
+    color: rgb(27, 0, 100);
+    font-size: small;
+}
