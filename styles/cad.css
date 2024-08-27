@@ -255,7 +255,7 @@ p#aa{
     object-position: 50%;
     /* border-top-left-radius: 20px;
     border-bottom-left-radius: 20px; */
-    border-radius: 100%;
+    border-radius: 50%;
 }
 
 .sc-img{
@@ -304,4 +304,9 @@ p#aa{
 
 #sc{
     font-size: 90%;
+}
+
+.textos-sobre{
+    margin: 20px;
+    align-content: center;
 }
